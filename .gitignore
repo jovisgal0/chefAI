@@ -1,0 +1,11 @@
+# Ignorar a pasta de compilação do Maven
+target/
+
+# Ignorar arquivos de configuração do VS Code e IntelliJ
+.vscode/
+.idea/
+*.iml
+
+# --- O MAIS IMPORTANTE ---
+# Ignorar o arquivo que contém a senha
+src/main/resources/application.properties

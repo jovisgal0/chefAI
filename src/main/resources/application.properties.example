@@ -1,0 +1,2 @@
+# Coloque sua chave da Groq aqui e renomeie este arquivo para application.properties
+groq.api.key=SUA_CHAVE_AQUI
