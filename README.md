@@ -111,4 +111,7 @@ Modo de Preparo:
 
 Cozinhe o macarrão. Frite o bacon. Misture ovos e queijo e incorpore ao macarrão quente.
 
-  
+
+
+
+Desenvolvido por João Vitor Caldeira da Silva - Engenharia da Computação UTFPR
